@@ -29,4 +29,6 @@ sniff(prn=packet_parser, filter="tcp and (port 22)")
 ```
 
 Reach out to me if you have any concerns!
-- fuzzyrichie
+
+Cheers,
+fuzzyrichie
