@@ -27,8 +27,3 @@ def packet_parser(data, pkt):
 sniff(prn=packet_parser, filter="tcp and (port 22)")
 
 ```
-
-Reach out to me if you have any concerns!
-
-Cheers,
-fuzzyrichie
