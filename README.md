@@ -1,4 +1,4 @@
-# TCP Reassembly Decorator for Pytthon
+# TCP Reassembly Decorator for Python
 
 Ever wanted to reassemble packets in Scapy while doing a Wireshark parsing or looking at a live network interface capture? I did.
 
